@@ -1,0 +1,18 @@
+.product-category-row-container{
+    border: 2px solid cyan;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 2px;
+
+    /*width: 95%;
+    margin: 0 auto;/*arriba y abajo =  0         en los lados automatico*/
+    /*min-height: 75px;
+    
+    padding: 10px;
+    margin-top: 10px;*/
+    
+}
+/*
+.search-input{
+    margin-bottom: 10px;
+}*/
